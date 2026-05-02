@@ -1,6 +1,6 @@
-# SamType
+# SpeedyFingers
 
-SamType is a simple and interactive typing effect web application. It showcases dynamic text animations, where text appears to be typed out on the screen, creating a visually appealing effect. This project is perfect for enhancing personal websites, portfolios, or any web page that needs an engaging typing effect.
+SpeedyFingers is a simple and interactive typing effect web application. It showcases dynamic text animations, where text appears to be typed out on the screen, creating a visually appealing effect. This project is perfect for enhancing personal websites, portfolios, or any web page that needs an engaging typing effect.
 
 ## Features
 
