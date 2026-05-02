@@ -21,11 +21,12 @@ SamType/
 
 1. 📥 Clone the repository:
    ```bash
-   git clone https://github.com/SafiyullahMemon/SamType.git
+   git clone https://github.com/SinehaRubab/speedyfingers.git
    ```
 2. 📂 Navigate to the project folder:
    ```bash
-   cd SamType
+   cd SpeedyFingers
+   
    ```
 3. 🌐 Open `index.html` in your browser to view the project.
 
