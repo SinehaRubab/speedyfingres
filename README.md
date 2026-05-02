@@ -42,7 +42,4 @@ Contributions are welcome! If you have any improvements or features to add, feel
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-
-For questions or suggestions, feel free to contact me at [safiyullah26\@gmail.com].
 
